@@ -1,0 +1,11 @@
+En tant qu'utilisateur de Learn Home, je veux pouvoir consulter facilement mes événements et rendez-vous sur la page de calendrier, afin de planifier mon temps de manière efficace.
+
+Je veux que la page de calendrier soit intuitive et facile à utiliser, avec une vue claire et organisée de tous mes événements.
+
+Je veux être en mesure de créer des événements et des rendez-vous sur la page de calendrier, afin de planifier mon temps de manière proactive.
+
+Je veux pouvoir configurer des rappels pour mes événements et rendez-vous, afin de ne pas manquer de réunions ou de dates importantes.
+
+Je veux pouvoir partager mon calendrier avec d'autres utilisateurs de Learn Home, afin que nous puissions coordonner nos horaires et planifier des événements ensemble.
+
+Enfin, je veux pouvoir synchroniser mon calendrier avec d'autres applications et services, tels que Google Calendar ou Outlook, pour que je puisse facilement visualiser mes événements et rendez-vous à partir de différents appareils. 

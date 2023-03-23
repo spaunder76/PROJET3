@@ -1,0 +1,11 @@
+En tant qu'étudiant sur Learn Home, je veux pouvoir discuter instantanément avec des bénévoles et d'autres élèves sur l'interface de chat, afin de poser des questions et d'obtenir une aide rapide pour mes devoirs.
+
+Je veux également être capable d'accéder à l'historique de mes conversations, pour que je puisse voir mes discussions passées et retrouver des informations importantes.
+
+Je veux pouvoir ajouter ou supprimer des contacts pour que je puisse facilement communiquer avec les personnes que je veux.
+
+En outre, je veux que chaque message sur l'interface de chat contienne une photo de profil de l'expéditeur à côté du message, pour que je puisse facilement identifier l'auteur.
+
+Je veux également que chaque message indique s'il a été lu ou non, afin que je puisse savoir si mes messages ont été vus par les destinataires.
+
+Enfin, je veux que chaque message sur l'interface de chat inclue l'horodatage, pour que je puisse savoir quand les messages ont été envoyés et recevoir une idée de la chronologie des conversations.
