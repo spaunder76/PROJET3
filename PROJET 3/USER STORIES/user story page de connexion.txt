@@ -1,0 +1,3 @@
+En tant qu'utilisateur, je souhaite pouvoir me connecter à mon compte en tant qu'élève ou bénévole sur la page de connexion. Je dois pouvoir saisir mon nom d'utilisateur et mon mot de passe pour accéder à mon compte. Si j'ai oublié mon mot de passe, je veux pouvoir utiliser le système de récupération de mot de passe pour recevoir un lien de réinitialisation par e-mail.
+
+Je ne peux accéder à aucune autre page de l'application tant que je ne suis pas connecté à mon compte. Si je n'ai pas encore de compte, je veux pouvoir cliquer sur un lien pour être redirigé vers la page de création de compte.
