@@ -1,0 +1,5 @@
+En tant qu'utilisateur, je souhaite pouvoir me connecter à mon compte en tant qu'élève ou bénévole sur la page de connexion.POur se faire je dois acceder au site en entrant cette url :               https://Learn@Home/connexion  .
+
+Je dois pouvoir saisir mon nom d'utilisateur et mon mot de passe pour accéder à mon compte en les cliquant sur les cases adéquates. Si j'ai oublié mon mot de passe, je veux pouvoir utiliser le système de récupération de mot de passe pour recevoir un lien de réinitialisation par e-mail en cliquant sur le lien "forgotten passwords"
+
+Je ne peux accéder à aucune autre page de l'application tant que je ne suis pas connecté à mon compte. Si je n'ai pas encore de compte, je veux pouvoir cliquer sur un lien pour être redirigé vers la page de création de compte appelée :"create an account"
